@@ -4,6 +4,8 @@ using namespace std;
 // Defining the parent class
 class Parent 
 {
+	
+	
     public: 
  	void print() 
     { 
